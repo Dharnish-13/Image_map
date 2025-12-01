@@ -23,7 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-view.py
+views.py
 ```
 from django.shortcuts import render
 
